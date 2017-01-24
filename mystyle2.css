@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+ table, th, td {
+    border: 1px solid black;
+     border-collapse: collapse;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
